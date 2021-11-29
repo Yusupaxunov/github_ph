@@ -1,0 +1,2 @@
+(this.webpackJsonpgithub_ph=this.webpackJsonpgithub_ph||[]).push([[0],{4:function(e,t,n){"use strict";n.r(t);n(1);var r=n(3),c=n.n(r),b=n(0),h=function(){return Object(b.jsx)(b.Fragment,{children:Object(b.jsx)("h1",{children:"blablabla"})})};c.a.render(Object(b.jsx)(h,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.839e54fa.chunk.js.map
